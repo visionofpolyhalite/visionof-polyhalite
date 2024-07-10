@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Main site URL with canonical link to the first page -->
   <url>
     <loc>https://sites.google.com/view/vision-of-polyhalite</loc>
     <lastmod>2024-07-04T15:33:56+00:00</lastmod>
     <priority>1.00</priority>
+    <xhtml:link rel="canonical" href="https://sites.google.com/view/vision-of-polyhalite/the-vision" />
   </url>
+  <!-- First page URL with canonical link to itself -->
   <url>
     <loc>https://sites.google.com/view/vision-of-polyhalite/the-vision</loc>
     <lastmod>2024-07-04T15:33:56+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.90</priority>
+    <xhtml:link rel="canonical" href="https://sites.google.com/view/vision-of-polyhalite/the-vision" />
   </url>
   <url>
     <loc>https://sites.google.com/view/vision-of-polyhalite/the-meaning-of-the-vision</loc>
